@@ -65,4 +65,10 @@
     <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
          from https://console.developers.google.com/ -->
     <string name="server_client_id">74987364924-t8jgsv6snk8c09ljap9k2plhmjcm4t6p.apps.googleusercontent.com</string>
+
+    <string name="avatar_description">avatar</string>
+    <string name="tv_ranking_label">Ranking</string>
+    <string name="tv_ranking">0</string>
+    <string name="tv_victories_label">Vitórias</string>
+    <string name="tv_victories">0</string>
 </resources>
